@@ -1,0 +1,10 @@
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\ChatGPT.Integration.exe
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\ChatGPT.Integration.dll
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\ChatGPT.Integration.deps.json
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\ChatGPT.Integration.runtimeconfig.json
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\ChatGPT.Integration.pdb
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+F:\tarea\ChatGPT.Integration\ChatGPT.Integration\obj\Release\net6.0\PubTmp\Out\OpenAI_API.dll

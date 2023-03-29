@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "el/mKEFddFbQIbZXq8TykjhMF2lUOewYZm5YQGjE1Vmx4LeQDaH0uoKmB02Pu3tyoTbMJ1mEngqMBkLymSq6FQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\ChatGPT.Integration\\ChatGPT.Integration\\ChatGPT.Integration\\ChatGPT.Integration.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete OpenAI. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "OpenAI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
